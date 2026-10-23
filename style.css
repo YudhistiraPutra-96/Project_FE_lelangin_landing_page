@@ -441,12 +441,12 @@ body {
 
 .category-label{
     font-size: 12px;
-    color: var(--text-grey);
+    color: var(--text-dark);
 }
 
 .bids{
     font-size: 17px;
-    color: var(--text-grey);
+    color: var(--text-dark);
     margin-bottom: 15px;
 }
 
@@ -465,7 +465,7 @@ body {
 
 .price-label {
     font-size: 17px;
-    color: var(--text-grey);
+    color: var(--text-dark);
 }
 
 .price-value {
